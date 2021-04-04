@@ -19,7 +19,7 @@ public class MyGitClass {
 		
 		System.out.println("13.satir UZAK SUNUCU"); //Github.com  daki yeni kodum
 
-
+		System.out.println("Baska birsey var");
 		
 
 	}
