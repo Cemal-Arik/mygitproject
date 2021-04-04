@@ -9,7 +9,7 @@ public class MyGitClass {
 		System.out.println("Hello I'm here");
 		System.out.println("My 4th commit");
 		System.out.println("Uzak sunucudaki kodlarim"); //GitHub.com daki kodum
-		System.out.println("Takim arkadasim Ersin Bey'in komutudur"); //Github.com daki yeni kodum
+		System.out.println("Takim arkadasim Bey'in komutudur"); //Github.com daki yeni kodum
 		System.out.println("13.satir UZAK SUNUCU"); //Github.com daki yeni kodum
 	}
 
