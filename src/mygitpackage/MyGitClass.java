@@ -23,7 +23,9 @@ public class MyGitClass {
 		System.out.println("Baska birsey var");
 
 		System.out.println("25. satir bilgisayarim");
-
+		
+		System.out.println("CEMAL BRANCHINDA YAZDIGIM CODLAR SATIR 27");
+		System.out.println("CEMAL BRANCHINDA YAZDIGIM CODLAR SATIR 28");
 		
 
 	}
